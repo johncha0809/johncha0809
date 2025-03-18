@@ -1,7 +1,3 @@
-echo "# johncha0809" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M master
-git remote add origin https://github.com/johncha0809/johncha0809.git
-git push -u origin master
+# 재은의 깃허브
+
+## 강의 듣는 개발자 차재은입니다.
